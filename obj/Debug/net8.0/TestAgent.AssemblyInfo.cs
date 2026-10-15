@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestAgent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+543c20dfb048ba4749aad8eeae4e149d377fc18d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestAgent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestAgent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
